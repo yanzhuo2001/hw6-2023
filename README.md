@@ -1,2 +1,2 @@
-# hw6-2023
-The week6 homework of course SI 539 
+# hw7-2022
+Starter Code for HW7 - JavaScript basics with Video
